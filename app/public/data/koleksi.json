@@ -1,10 +1,72 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
-  }
-]
+    "judul":"Ecotourism Asset Management System",
+    "teknologi":"React, Vite, Node.js",
+    "tahun":"2025",
+    "tautan":"https://github.com/AfriliaDwiAmnesti/ecotourism-app"
+  },
+  {
+    "id":"2",
+    "judul":"Railway Weld Joint Monitoring System",
+    "teknologi":"Python, RAD Methodology",
+    "tahun":"2026",
+    "tautan":"https://github.com/AfriliaDwiAmnesti/railway-monitor"
+  },
+  {
+    "id":"3",
+    "judul":"Personal Book Management App",
+    "teknologi":"React, Context API, Vitest",
+    "tahun":"2026",
+    "tautan":"https://github.com/AfriliaDwiAmnesti/book-manager"
+  },
+  {
+    "id":"4",
+    "judul":"Students Personal Dashboard",
+    "teknologi":"JavaScript, ES6+, Open-Meteo API",
+    "tahun":"2026",
+    "tautan":"https://github.com/AfriliaDwiAmnesti/student-dashboard"
+  },
+  {
+    "id":"5",
+    "judul":"Iot Food Technology Marketplace",
+    "teknologi":"Figma, React, Tailwind CSS",
+    "tahun":"2026",
+    "tautan":"https://github.com/AfriliaDwiAmnesti/food-tech-marketplace"
+  },
+  {
+    "id":"6",
+    "judul":"Digital Twin Simulation Model",
+    "teknologi":"Python, Metplotlib, NumPy",
+    "tahun":"2025",
+    "tautan":"https://github.com/AfriliaDwiAmnesti/digital-twin-sim"
+    },
+    {
+      "id":"7",
+      "judul":"Cybersecurity Threat Modeling Tool",
+      "teknologi":"C++, Graph Theory",
+      "tahun":"2025",
+      "tautan":"https://github.com/AfriliaDwiAmnesti/threat-modeler"
+    },
+    {
+      "id":"8",
+      "judul":"Weather Widget Integration",
+      "teknologi":"JavaScript, REST API",
+      "tahun":"2026",
+      "tautan":"https://github.com/AfriliaDwiAmnesti/weather-widget"
+    },
+    {
+      "id":"9",
+      "judul":"QR Code Asset Tracking Module",
+      "teknologi":"React, QR Scanner API",
+      "tahun":"2025",
+      "tautan":"https://github.com/AfriliaDwiAmnesti/qr-asset-treacker"
+    },
+    {
+      "id":"10",
+      "judul":"UI/UX Portrail Retouching Suite",
+      "teknologi":"HTML5, CSS3, JavaScript",
+      "tahun":"2026",
+      "tautan":"https://github.com/AfriliaDwiAmnesti/portrait-suite"
+    }
+  ]
