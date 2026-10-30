@@ -11,7 +11,6 @@ export default function Koleksi() {
     <section>
       <h1>Koleksi</h1>
       <div className="daftar-kartu">
-      <div className="daftar-kartu">
         {items.map((item) => (
           <KartuItem key={item.id} item={item} />
         ))}
