@@ -10,7 +10,7 @@ const MENU = [
 
 export default function Navigasi() {
     return (
-    <nav id="navigasi-utama" className="menu">
+    <nav id="navigasi" className="menu">
       {MENU.map(({ ke, label }) => (
         <NavLink key={ke} to={ke} end={ke === '/'}>
             {label}

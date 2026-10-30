@@ -103,3 +103,25 @@
     grid-template-columns: 1fr;
   }
 }
+
+#navigasi a {
+  text-decoration: none;
+  color: inherit;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+}
+
+#navigasi a:hover {
+  background-color: #f1f1f1;
+}
+
+#kartu .kartu:hover {
+  border-color: #0e0c0c;
+}
+
+#alat-koleksi input:focus,
+#alat-koleksi select:focus {
+  outline: none;
+  border-color: #0e0c0c;
+  box-shadow: 0 0 0 2px rgba(15, 23, 42, 0.1);
+}

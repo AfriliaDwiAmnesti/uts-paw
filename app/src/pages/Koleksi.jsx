@@ -22,14 +22,14 @@ export default function Koleksi() {
   return (
     <section>
       <h1>Koleksi</h1>
-      <div className="alat-koleksi">
+      <div id="alat-koleksi" className="alat-koleksi">
         <KotakPencarian nilai={cari} onUbah={setCari} />
          <FilterKategori daftar={daftarKategori} nilai={kategori} onUbah={setKategori} />
       </div>
       {tampil.length === 0 ? (
         <p>Tidak ada item yang cocok.</p>
       ) : (
-      <div className="daftar-kartu">
+      <div id="kartu" className="daftar-kartu">
         {tampil.map((item) => (
           <KartuItem key={item.id} item={item} />
         ))}
